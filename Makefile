@@ -19,7 +19,7 @@ help:
 ## Update & start complete docker-compose setup
 up: dcbuild dcpull dccomposer
 	docker-compose up -d --force-recreate nginx
-	open "https://fastcgi-demo.hollo.me"
+	open "http://localhost:8080/"
 .PHONY: up
 
 ## Pull all containers

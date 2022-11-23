@@ -14,7 +14,7 @@
 <div id="left">
 	<ul>
 		<li>
-			<a href="/pools">PHP-FPM Pools</a>
+			<a href="/pools/">PHP-FPM Pools</a>
 		</li>
 	</ul>
 </div>
